@@ -1,0 +1,21 @@
+{
+  "name": "three.regular.helvetiker",
+  "version": "1.0.0",
+  "description": "helvetiker regular typeface for three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three",
+    "three.js",
+    "font",
+    "typeface"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/three.regular.helvetiker"
+  }
+}
