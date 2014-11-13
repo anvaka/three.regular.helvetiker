@@ -1,6 +1,14 @@
 # three.regular.helvetiker
 
-helvetiker regular typeface for three.js
+This is port of [helvetiker regular typeface](https://github.com/mrdoob/three.js/blob/master/examples/fonts/helvetiker_regular.typeface.js) from three.js
+to commonjs package.
+
+# usage
+
+``` js
+var typeface = require('three.regular.helvetiker');
+THREE.typeface_js.loadFace(typeface);
+```
 
 # install
 
